@@ -1,0 +1,8 @@
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\bin\Debug\DefiniraneNaKlasChovek.exe.config
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\bin\Debug\DefiniraneNaKlasChovek.exe
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\bin\Debug\DefiniraneNaKlasChovek.pdb
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.csproj.AssemblyReference.cache
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.csproj.CoreCompileInputs.cache
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.exe
+D:\Програмиране\DefiniraneNaKlasove\DefiniraneNaKlasChovek\obj\Debug\DefiniraneNaKlasChovek.pdb
